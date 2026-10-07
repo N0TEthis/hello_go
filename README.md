@@ -468,6 +468,6 @@ GitHub создаст **новый Release** `v1.1.0`, старый `v1.0.0` о�
 - **GHCR** — для деплоя на серверы (Docker Compose, Kubernetes)
 - **Releases** — для распространения среди пользователей
 
-![Screen](/content/DevOps/CI_CD/img/17_workflow.png)
+![Screen](./hello_go.png)
 
 > Если вы обнаружили ошибку в этом тексте — сообщите пожалуйста автору!
